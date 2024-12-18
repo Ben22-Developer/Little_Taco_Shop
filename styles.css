@@ -1,21 +1,20 @@
+body {
+	background-color:white;
+}
 td,th {
 	border: 1px solid black;
 	border-collapse: collapse;
 }
-
 .my_table {
 text-align: center;
-
 }
-
 .row1 {
 	font-weight:normal;
 	font-size: 30px;
 	padding: 20px;
-    width: 30%;
+ 	width: 30%;
 	height: 45px;
 }
-
 .row2 {
 	height: 45px;
 }
